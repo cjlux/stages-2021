@@ -4,4 +4,4 @@
 ![imageex](/img/ex.PNG)
 ici le class Voiture() par exemple 
 
-* 
+* (meme exemple) je ne peux pas introduire une partie code dans une phrase en mettant le code en python 
