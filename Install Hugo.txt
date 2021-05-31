@@ -1,0 +1,4 @@
+(D'après Etienne:)
+
+J'ai remarqué que les paquets snaps sont bugués (code, etc...).
+J'ai desinstallé hugo de snap et installé via le .deb qui est ici : https://github.com/gohugoio/hugo/releases/tag/v0.83.1
