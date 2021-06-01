@@ -3,3 +3,4 @@
 * du chaterton/scotch noir 
 * 5 cylindres (diametre max 10cm)
 * 5 cubes (max 10x10 cm)
+* 1 régle 
